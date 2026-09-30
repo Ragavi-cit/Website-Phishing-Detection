@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard AI",
+  "description": "AI-powered phishing detection app that analyzes URLs, QR codes, messages, and screenshots with deep threat explanation and attack reconstruction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
